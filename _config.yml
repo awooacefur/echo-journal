@@ -1,9 +1,9 @@
 # Setup
-title: Dark Poole
-url: https://andrewhwanpark.github.io/dark-poole
+title: Echo Journal
+url: https://awooacefur.github.io/echo-journal
 paginate: 1
 paginate_path: "/dark-poole/page:num/"
-baseurl: "/dark-poole"
+baseurl: "/echo-journal"
 permalink: pretty
 
 # Gems
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: 
+  url: 
+  email: 
 
 # Custom vars
 version: 3.0.0
@@ -43,7 +43,7 @@ version: 3.0.0
 # Navbar page list
 nav:
   - title: Blog
-    url: /dark-poole/archive
+    url: /echo-journal/archive
 
   - title: About
-    url: /dark-poole/about
+    url: /echo-journal/about
